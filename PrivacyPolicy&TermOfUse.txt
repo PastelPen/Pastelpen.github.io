@@ -10,6 +10,7 @@ Link to privacy policy of third-party service providers used by the game:
 
 Ironsource
 Unity Ads
+Unity Analytics
 Google Play Ads 
 Google Play Services
 AdMob
