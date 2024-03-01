@@ -300,4 +300,5 @@ lunamedia.io, 464b5a3a-b155-4f05-8953-9f6cd192d932, RESELLER, 524ecb396915caaf
 pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 24170, RESELLER, 0bfd66d529a55807 
 adsbea.com,17,RESELLER
+google.com, pub-5880873904069018, DIRECT, f08c47fec0942fa0
 
