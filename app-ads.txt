@@ -1,6 +1,6 @@
 applovin.com, 82acd1df0fa48e74bc16e99a912d342c, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
-google.com, pub-3041983841473555, RESELLER, f08c47fec0942fa0
+google.com, pub-3041983841473555, DIRECT, f08c47fec0942fa0
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
